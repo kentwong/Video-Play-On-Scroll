@@ -1,0 +1,18 @@
+#v0 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 3em;
+  background: #fff;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 0;
+}
+p {
+  font-size: 1.5em;
+}
